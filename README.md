@@ -1,5 +1,5 @@
-<div align="center">
-### 👋 &nbsp; Hey there! I'm Maria
+<div align="center" style="font-style: bold; text-align: center;" markdown="1">
+ 👋 &nbsp; Hey there! I'm Maria
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
