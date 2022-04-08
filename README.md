@@ -6,7 +6,7 @@
 🎓 &nbsp;I'v studied Software Engineering at the Karachi university , Pakistan.\
 🌱 &nbsp;I'm on track for learning more about Android, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion about tech stuff.\
-✉️ &nbsp;You can shoot me an email at syedamariarasheed@gmail!.\
+✉️ &nbsp;You can shoot me an email at syedamariarasheed@gmail!.
 
 ### 🛠 &nbsp;Tech Stack
 
