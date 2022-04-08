@@ -11,7 +11,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android&logoColor=49B76F)&nbsp;
-![Java](https://img.shields.io/badge/-Java-69767B?style=flat&logo=Java&logoColor=4990FF)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=4990FF)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=8F00FF)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=FFA518)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
