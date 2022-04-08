@@ -22,7 +22,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=syedamariarasheed&theme=flat&column=3&margin-w=15&margin-h=30)
+![trophy](https://github-profile-trophy.vercel.app/?username=syedamariarasheed&theme=flat&column=3&margin-w=15&margin-h=20)
 
 ⭐️ From [Syeda Maria Rasheed](https://github.com/syedamariarasheed)
 
