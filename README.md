@@ -2,7 +2,10 @@
  👋 &nbsp; Hello World, Maria Here!
 </h2>
 
-### 👩🏻‍💻 &nbsp;About Me
+### 
+<h6 align="center" style="font-style: bold; text-align: center;" markdown="1">
+👩🏻‍💻 &nbsp;About Me
+</h6>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'v studied Software Engineering at the Karachi university , Pakistan.\
