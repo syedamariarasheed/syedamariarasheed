@@ -1,5 +1,6 @@
-### 👋 &nbsp;Hey there! I'm Maria
-
+<div style="font-style: italic; text-align: center;" markdown="1">
+### 👋 &nbsp; Hey there! I'm Maria
+</div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
