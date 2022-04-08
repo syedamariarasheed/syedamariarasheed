@@ -3,9 +3,9 @@
 </h2>
 
 ### 
-<h5 style="font-style: bold; text-align: center;" markdown="1">
+<h3 style="font-style: bold; text-align: center;" markdown="1">
 👩🏻‍💻 &nbsp;About Me
-</h5>
+</h3>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'v studied Software Engineering at the Karachi university , Pakistan.\
