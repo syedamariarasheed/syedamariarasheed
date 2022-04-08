@@ -1,3 +1,4 @@
+### 
 <h2 align="center" style="font-style: bold; text-align: center;" markdown="1">
  👋 &nbsp; Hello World, Maria Here!
 </h2>
@@ -13,7 +14,10 @@
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion about tech stuff.\
 ✉️ &nbsp;You can shoot me an email at syedamariarasheed@gmail!.
 
-### 🛠 &nbsp;Tech Stack
+###
+<h4 style="font-style: bold; text-align: center;" markdown="1">
+🛠 &nbsp;Tech Stack
+</h4>
 
 ![Android](https://camo.githubusercontent.com/bd89453ac5e2eaeb937cd49be46d417f4996b07f9d8cc7546ad828d0637c7b1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f6c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
 ![Kotlin](https://camo.githubusercontent.com/3ee553455a9764899d5bedc4156ce473bc2e74ff6a81f9391796f2480990a65f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333030393544352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)&nbsp;.\
