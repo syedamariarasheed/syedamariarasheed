@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Maria.\
+## 👋 &nbsp;Hey there! I'm Maria
 
 
 ### 👨🏻‍💻 &nbsp;About Me
