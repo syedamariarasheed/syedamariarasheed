@@ -1,7 +1,7 @@
 ## 👋 &nbsp;Hey there! I'm Maria
 
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'v studied Software Engineering at the Karachi university , Pakistan.\
