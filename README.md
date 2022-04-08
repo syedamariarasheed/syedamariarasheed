@@ -1,6 +1,6 @@
-<h1 align="center" style="font-style: bold; text-align: center;" markdown="1">
+<h2 align="center" style="font-style: bold; text-align: center;" markdown="1">
  👋 &nbsp; Hey there! I'm Maria
-</h1>
+</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
