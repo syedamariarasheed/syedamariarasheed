@@ -1,4 +1,4 @@
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div align="center">
 ### 👋 &nbsp; Hey there! I'm Maria
 </div>
 
