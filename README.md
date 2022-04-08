@@ -2,7 +2,7 @@
  👋 &nbsp; Hello World, Maria Here!
 </h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'v studied Software Engineering at the Karachi university , Pakistan.\
