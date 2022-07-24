@@ -3,7 +3,6 @@
  👋 &nbsp; Hello World, Maria Here!
 </h2>
 
-### 
 <h4 style="font-style: bold; text-align: center;" markdown="1">
 👩🏻‍💻 &nbsp;About Me
 </h4>
