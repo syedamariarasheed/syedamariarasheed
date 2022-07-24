@@ -1,6 +1,6 @@
 ### 
 <h2 align="center" style="font-style: bold; text-align: center;" markdown="1">
- 👋 &nbsp; Hello World, Maria Here!
+ 👋 &nbsp; Hello, Maria Here!
 </h2>
 
 <h4 style="font-style: bold; text-align: center;" markdown="1">
